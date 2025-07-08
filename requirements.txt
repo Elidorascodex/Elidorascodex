@@ -1,7 +1,0 @@
-# Core Python requirements for Desk Goddess project
-vosk
-pyttsx3
-spotipy
-porcupine
-flask # (optional, for web interface)
-requests
