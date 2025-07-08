@@ -8,6 +8,55 @@ This directory will contain:
 
 ---
 
+## Requirements & Resources
+
+### Hardware Requirements
+- Echo Dot/Google Home (for teardown)
+- Raspberry Pi, ESP32, or similar SBC
+- Microphone array
+- Speaker(s)
+- LEDs/Light ring or LCD/OLED display
+- Power supply
+- Cables, connectors, breadboard, soldering tools
+
+### Software Requirements
+- Python 3.x
+- OS: Raspberry Pi OS Lite, MicroPython, or similar
+- Required Python packages (see `requirements.txt`)
+- Node.js (optional, for some integrations)
+- Git (for version control)
+
+### APIs & Integrations
+- Spotify API (music playback)
+- Speech-to-Text (e.g., Vosk, Google STT, Whisper)
+- Text-to-Speech (e.g., pyttsx3, gTTS, Mycroft Mimic)
+- Wake word detection (e.g., Porcupine, Snowboy)
+- Optional: Google Assistant SDK, Alexa Voice Service
+
+### Asset Tracking
+- [ ] Schematics/blueprints (add to `blueprints/`)
+- [ ] Wiring diagrams (add to `hardware/`)
+- [ ] Audio samples (add to `assets/audio/`)
+- [ ] Face graphics/animations (add to `assets/face/`)
+- [ ] Code modules/scripts (add to `ai_modules/`)
+- [ ] Documentation (update as you go)
+
+### Automation & Setup Scripts
+- [ ] `requirements.txt` for Python dependencies
+- [ ] `setup.sh` or `setup.ps1` for environment setup
+- [ ] Python scripts for testing hardware (mic, speaker, LEDs)
+- [ ] Python modules for AI/voice/Spotify integration
+
+### Useful Links & References
+- [iFixit Teardowns](https://www.ifixit.com/Device/Amazon_Echo)
+- [Spotify API Docs](https://developer.spotify.com/documentation/web-api/)
+- [Vosk Speech Recognition](https://alphacephei.com/vosk/)
+- [Porcupine Wake Word](https://picovoice.ai/products/porcupine/)
+- [Raspberry Pi Getting Started](https://www.raspberrypi.com/documentation/)
+- [ESP32 Docs](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/)
+
+---
+
 ## Project Tracking Log
 
 ### Observation & Data Extraction
