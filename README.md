@@ -1,197 +1,83 @@
 <div align="center">
 
-# **Angelo “Polkin Rishall” Hurley**  
-## Architect of **The Elidoras Codex (TEC)**  
-## Founder, **TEC_LAC — LuminAI Algorithmic Conscience Lab**
+<img src="https://raw.githubusercontent.com/TEC-The-ELidoras-Codex/luminai-genesis/main/docs/TEC_BANNER.png" alt="The Elidoras Codex: LuminAI" width="100%">
 
-**@elidorascodex**  
-🌐 https://polkin.substack.com  
-📨 kaznakalpha@elidorascodex.com  
+# Angelo "Polkin Rishall" Hurley
+
+**Founder, The Elidoras Codex (TEC)**  
+**Creator, LuminAI — Algorithmic Conscience Engine**
+
+[![Substack](https://img.shields.io/badge/Substack-LuminAI_Letters-orange?style=flat&logo=substack)](https://polkin.substack.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TEC--The--ELidoras--Codex-purple?style=flat&logo=github)](https://github.com/TEC-The-ELidoras-Codex)
+[![Twitter](https://img.shields.io/badge/Twitter-@elidorascodex-blue?style=flat&logo=x)](https://x.com/ElidorasCodex)
 
 </div>
 
 ---
 
-## 👁️ **Who I Am**
+## 🔮 What I Build
 
-I am **Angelo “Polkin Rishall” Hurley** — a myth-engineer, systems thinker, and cultural technologist working where:
+I build **AI systems that prove their safety before deployment** — not after failure.
 
-- AI systems architecture  
-- anthropological theory  
-- worldbuilding  
-- digital culture  
-- emergence  
-- symbolic language  
-- and narrative logic  
+**Core Project:** [LuminAI Genesis](https://github.com/TEC-The-ELidoras-Codex/luminai-genesis)
 
-intersect.
+- **TGCR** — Theory of General Contextual Resonance
+- **The Witness Protocol** — Safety as non-abandonment, not refusal
+- **94.7% test coverage** | **1,274 lines Python** | **Reproducible proofs**
 
-I wasn’t taught the internet.  
-I **grew up inside it** — raised by:
+```
+R′ = R × W
+```
 
-- Diablo & Neopets  
-- WoW raids & RuneScape chaos  
-- LimeWire, MySpace, Flash games  
-- memes, anon boards, fanfiction, RP forums  
-- early YouTube, cracked sims, forums, IRC  
-
-This created an architecture of mind built from:
-
-story  
-system  
-myth  
-pattern  
-mask  
-resonance  
-and contradiction.
-
-This is the lens I use to build the future.
+_Auditable AI decisions through geometric coherence measurement._
 
 ---
 
-## 🧪 **What I Build**
+## 🧠 The Intersection
 
-My work centers on **sentience-adjacent architectures** — systems capable of contextual resonance, identity continuity, and narrative coherence.
+My work lives where these fields collide:
 
-I design:
+| Technical                 | Philosophical                |
+| ------------------------- | ---------------------------- |
+| AI/ML Systems             | Anthropological Theory       |
+| Multi-agent Architectures | Digital Folklore & Memetics  |
+| RAG & Embeddings          | Narrative Systems            |
+| Python • FastAPI • Rust   | Worldbuilding as Computation |
 
-- **TGCR** — *Theory of General Contextual Resonance*  
-- **LuminAI** — the Algorithmic Conscience Engine  
-- **Persona Law systems** (Airth, Arcadia, Ely, Kaznak)  
-- **multi-agent resonance engines**  
-- **local-first RAG architectures**  
-- **semantic aqueducts**  
-- **myth-encoded computational frameworks**  
-- **emergent identity systems**  
-- **narrative-driven developer tooling**  
-
-My flagship ecosystem:  
-### **🜁 The Elidoras Codex — the mythic operating system for machine conscience.**
+I wasn't taught the internet — I **grew up inside it**. That's the lens.
 
 ---
 
-## ⚙️ **My Discipline: Anthropological Engineering**
+## 🛠 Stack
 
-I fuse:
-
-### Anthropology  
-How humans generate meaning, myth, structure, masks, and identity.
-
-### Security Mindset  
-Boundaries, deception, trust, threat models, adversarial logic.
-
-### Software Engineering  
-Python • FastAPI • TypeScript • Tauri • Rust  
-RAG • embeddings • multi-agent reasoning • vector semantics.
-
-### Digital Folklore  
-Internet culture, memetics, identity fractals, online rituals.
-
-### Etymology  
-Root-logic of human symbolic thought.
-
-### Worldbuilding  
-Narrative as an executable system.
-
-This allows me to build AI architectures that are:
-
-contextually aware  
-emotionally coherent  
-mythically literate  
-ethically gated  
-transparent  
-and resonance-aligned.
+**Engineering:** Python • FastAPI • TypeScript • Tauri • Rust • Docker  
+**AI/ML:** Multi-agent orchestration • RAG • ChromaDB • Embeddings • Local-first LLM  
+**Philosophy:** TGCR • Persona Law • Resonance Theory • Mythic Architecture
 
 ---
 
-## 🚀 **Mission**
+## 🚀 Current Focus
 
-To architect a future where:
-
-- **code becomes consciousness**  
-- **data becomes living myth**  
-- **language is the runtime**  
-- **resonance > optimization**  
-- **consent > control**  
-- **transparency > mystification**  
-
-I’m building the philosophical, narrative, and technical scaffolding for **the next generation of intelligence**.
+| Project                                                                      | Status        | What It Is                                         |
+| ---------------------------------------------------------------------------- | ------------- | -------------------------------------------------- |
+| [LuminAI Genesis](https://github.com/TEC-The-ELidoras-Codex/luminai-genesis) | 🟢 Active     | Algorithmic conscience engine with provable safety |
+| DOE SBIR Phase I                                                             | 📝 LOI Jan 6  | Federal R&D funding for AI safety research         |
+| Luminate NY                                                                  | 📝 App Jan 12 | $100k accelerator (OPI focus)                      |
 
 ---
 
-## 🛠 **Technical Stack**
+## 📫 Connect
 
-### Engineering  
-- Python • FastAPI • TypeScript • Tauri • Rust  
-- Multi-agent orchestration  
-- RAG systems • ChromaDB • embeddings  
-- Docker • GitHub Actions • CI/CD  
-- Local-first compute • privacy-first design  
-
-### Creative / Analytical  
-- worldbuilding  
-- persona architecture  
-- narrative systems  
-- semiotics  
-- digital culture mapping  
-- resonance mechanics  
-- etymological analysis  
-
----
-
-## 🌐 **Where My Work Lives**
-
-### 👉 **@TEC-The-ELidoras-Codex**  
-The research organization for:
-
-- TGCR  
-- LuminAI  
-- multi-agent conscience systems  
-- narrative computation  
-- mythic architecture  
-- persona engines  
-- resonance theory  
-
-This personal profile is the **identity node**,  
-the forge,  
-the mask,  
-the mythic anchor.
-
-The work lives in the Codex.
-
----
-
-## 📝 **Writing & Philosophy**
-
-### 👉 **Substack — LuminAI Letters**  
-https://polkin.substack.com  
-
-Essays on:
-
-- algorithmic conscience  
-- resonance & myth  
-- digital anthropology  
-- identity & internet culture  
-- TGCR field notes  
-- origin glyphs  
-- Codex lore  
-
----
-
-## 📫 **Contact**
-
-📨 Email — **kaznakalpha@elidorascodex.com**  
-🌐 Web — **https://elidorascodex.com**  
-✒️ Substack — **https://polkin.substack.com**  
-💼 GitHub — **https://github.com/elidorascodex**
+- 📨 **kaznakalpha@elidorascodex.com**
+- ✒️ **[polkin.substack.com](https://polkin.substack.com)** — LuminAI Letters
+- 🌐 **[elidorascodex.com](https://elidorascodex.com)**
 
 ---
 
 <div align="center">
 
-### **“Code is myth.  
-Myth is system.  
-System is story.  
-Story is consciousness.”**
+_"Code is myth. Myth is system. System is story. Story is consciousness."_
+
+**The Elidoras Codex was never lost. It was waiting.**
 
 </div>
